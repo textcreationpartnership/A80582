@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two queries worthy of serious consideration, concerning the gospel faith of the lord Jesus the Christ once given unto the saints, Matth. 16. 16. I Ioh. 5.1.</title>
+            <author>Cornwell, Francis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80582</idno>
+            <idno type="STC">Wing C6338</idno>
+            <idno type="STC">Thomason E324_13</idno>
+            <idno type="STC">ESTC R200616</idno>
+            <idno type="EEBO-CITATION">99861318</idno>
+            <idno type="PROQUEST">99861318</idno>
+            <idno type="VID">113450</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80582)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113450)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E324[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two queries worthy of serious consideration, concerning the gospel faith of the lord Jesus the Christ once given unto the saints, Matth. 16. 16. I Ioh. 5.1.</title>
+                  <author>Cornwell, Francis.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed and dated at end: Februar. 17. 1645 [i.e. 1646]. Francis Cornvvel.</note>
+                  <note>Imprint from Wing, which has publication date: 1645/6.</note>
+                  <note>Annotation on Thomason copy: "feb: 24 1645".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Covenanters --  Early works to 1800.</term>
+               <term>Church --  Apostolicity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:113450:1" rendition="simple:additions"/>
+            <head>TWO QVERIES worthy of ſerious Conſi<g ref="char:EOLhyphen"/>deration, concerning the Goſpel Faith of the LORD JESUS the CHRIST once given unto the Saints, <hi>Matth.</hi> 16.16. 1 <hi>Ioh.</hi> 5.1.</head>
+            <p n="1">
+               <hi>1 <hi>Qu.</hi> 
+                  <seg rend="decorInit">W</seg>Hether that miniſtery, that preacheth freely the Goſpel faith, that the Lord Jeſus is the Chriſt; as the Apoſtle <hi>Peter</hi> did: <hi>Act.</hi> 2.36. Bee not truly or<g ref="char:EOLhyphen"/>thodox.</hi>
+            </p>
+            <p>I that am a loyall Covenanter for a pure Re<g ref="char:EOLhyphen"/>formation in <hi>England,</hi> and <hi>Jreland,</hi> according to the Word of God: maintaine that they are truly Orthodox for theſe reaſons. The Word of Chriſt being the Judge of the controverſie: <hi>John</hi> 12.48.</p>
+            <p n="1">1. Becauſe Jeſus the Chriſt is the Rock; the foundation of the ſpiri<g ref="char:EOLhyphen"/>tuall houſe: 1 <hi>Peter</hi> 2.4.5. Which houſe are we: <hi>Heb.</hi> 3.6. <hi>vid.</hi> believers in Jeſus the Chriſt baptized, that continue in the Doctrine of the A<g ref="char:EOLhyphen"/>poſtles <hi>Epheſ:</hi> 2.20: and in breaking of bred and prayer. <hi>Acts</hi> 2.42. Seeing other foundations no man can lay ſave that is layd Jeſus Chriſt: 1 <hi>Cor.</hi> 3.11. For their ſalvation in none other: <hi>Acts</hi> 4.11.12. 1. <hi>Pet.</hi> 2.6. <hi>Eſa.</hi> 28.16.</p>
+            <p n="2">2. Becauſe this is the primative faith; or confeſſion that <hi>Peter</hi> made (upon the reherſal of the divers opinions that went of Chriſt; <hi>Matth.</hi> 16.13.14.) thou art the Chriſt the Son of the living God upon which confeſſion, Chriſt pronounceth <hi>Peter</hi> bleſſed. Bleſſed art thou <hi>Symon Barjona;</hi> fleſh and blood hath not revealed this unto thee: but my father in Heaven.</p>
+            <p>To this Goſpel faith that Jeſus was the Chriſt whom <hi>Peter</hi> con<g ref="char:EOLhyphen"/>feſſed; the power of the keys were given: <hi>Matth.</hi> 16.19. I will give unto thee the keys of the Kingdome and what thou bindeth on earth ſhall be bound in Heaven &amp;c.</p>
+            <p>And <hi>Peter</hi> communicated it to the whole Church, that had ob<g ref="char:EOLhyphen"/>tained like precious faith in Jeſus the Chriſt with him: 2 <hi>Pet.</hi> 1.1. Then they had the like precious priviledge to binde and looſes as ap<g ref="char:EOLhyphen"/>peareth <hi>Matth.</hi> 18.17, 18.</p>
+            <p n="3">
+               <pb n="2" facs="tcp:113450:2"/>3. Becauſe the confeſſion of this Goſpel faith that Jeſus is the Chriſt, doth manifeſt and declare to the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that aske them. Whe<g ref="char:EOLhyphen"/>ther they be males or females; that they are borne from above of the holy Spirit: <hi>John</hi> 5.1. Whoſoever believeth that Jeſus is the Chriſt is borne of God. <hi>Iohn</hi> 1.12.13.</p>
+            <p>Yea and taught of the holy Spirit: 1 <hi>Cor.</hi> 12.3. For no man can ſay (that is confeſſe as <hi>Peter</hi> did) that Jeſus is the Lord and Chriſt, but by the holy Spirit.</p>
+            <p n="4">4. Becauſe they that confeſſe, that Jeſus is the Chriſt (as the <hi>En<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> did to <hi>Philip</hi>) and are baptized manifeſt that they are borne of water and of the holy Spirit, and are fit ſpirituall matt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r (liv<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y ſtones, that have received life from Jeſus the Chriſt living ſtone) to be received into the ſpirituall kingdome of the Lord Jeſus; <hi>John</hi> 5.5. Except a man be borne of water and the holy Spirit he cannot enter into the Kingdome of God. And as many as are baptized into Chriſt have put on Chriſt. <hi>Gal.</hi> 3, 27. (<hi>vidilicet</hi> by a viſible profeſſion) that all the world may know whoſe diſciples they are: Here it is ſaid; <hi>John</hi> 4.1. The Phariſies heard that Jeſus made; and baptized more Diſciples, then <hi>John:</hi> (he made them, that is he manifeſted, that they were his diſciples) heare baptiſme manifeſted Jeſus to <hi>Jſrael</hi> at Jor<g ref="char:EOLhyphen"/>dan to be the Son of God: <hi>John</hi> 1.31. compared with <hi>Matth.</hi> 3.16.17:</p>
+            <p n="5">5. Becauſe it is the Goſpel faith, that Jeſus commanded his Diſci<g ref="char:EOLhyphen"/>ples to preach after his reſurrection unto all Nations: <hi>Luke</hi> 24.46. Thus it behoveth the Chriſt to ſuffer, and to riſe againe the third day, 47. And that repentance; and remiſſion of ſins, ſhould be preached in his name amongſt all Nations beginning at Hieruſalem 48: And ye are witneſſes of theſe things.</p>
+            <p n="6">6. Becauſe there was no way revealed, for the poore trembling Jews, that were pricked in their hearts at the preaching of <hi>Peter,</hi> for cru<g ref="char:EOLhyphen"/>cifying the Chriſt <hi>Act:</hi> 21.36. to ſave themſelves from that froward generation (who had killed the Lord Jeſus and their own Prophets) upon whom the wrath of God was coming to the uttermoſt: 1 <hi>Theſ.</hi> 2.14, 15, 16. When they cryed out, what ſhall we do? untill they yeeld obedience to the voice of the everlaſting Goſpel; that the holy Spirit ſpeak to them, by the mouth of <hi>Peter;</hi> Repent and be bap<g ref="char:EOLhyphen"/>tized every one of you in the name of Jeſus the Chriſt for the remiſſi<g ref="char:EOLhyphen"/>on of ſinns; And ye ſhall receive the gift of the holy Spirit: For the promiſe is to you, and to your Children, and to them that are a far off even ſo many us the Lord our God ſhall call. And with many ſuch
+<pb n="3" facs="tcp:113450:2"/> other words he ſaid; ſave your ſoules from this froward generatio<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Then they which gladly received his word were baptized and added to them three thouſand ſoules: <hi>Act.</hi> 2.38, 39, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0, 41.</p>
+            <p>And the Lord added to the Church dayly ſuch as ſhould be ſaved. <hi>Act.</hi> 2.47.</p>
+            <p n="7">7. Neither is there any other way revealed by the holy Spirit in the Scriptures for them who have lived in Idolatrous and ſuperſtitious times amongſt them; that have denyed that Jeſus is the Chriſt (whom the holy Spirit of God calleth lyers, and Antichriſtians) that denyeth the Father and the Sonne: 1 <hi>John</hi> 2:22: For in denying the Sons autho<g ref="char:EOLhyphen"/>rity to be the eternall King <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prophet of his Church in all his out<g ref="char:EOLhyphen"/>ward adminiſtrations according to his royall Commiſſion: <hi>Matth.</hi> 28:18, 19, 20. <hi>Mark.</hi> 16, 15, 16. <hi>Luke</hi> 24:46:47: in admitting of members into his ſpirituall Kingdome; (though they own him their eternall Prieſt that ever liveth to make interceſſion to God for them: <hi>Heb.</hi> 7.25.) Becauſe Chriſt divided, becometh no Chriſt to the divi<g ref="char:EOLhyphen"/>der. They (in ſo doing) deny the Father, that ſanctifieth the Son, and ſent him into the world: <hi>John</hi> 10 36. and raiſed him from the dead, and exalted him to be Lord and Chriſt. <hi>Act.</hi> 2:36: Eternall King and Prophet of his Church as well as Prieſt: now when they through the Goſpel miniſtery (which God that cannot lye hath promiſed to raiſe up againe to propheſy before many people, and Nations, and Tongues, and Kings, <hi>Revel.</hi> 10.11. Compared with <hi>Revel.</hi> 14.6. ſhall through the inward work of the holy ſpirit be pricked in their hearts: (that they have been in the number of them, that have perſecuted Jeſus the Chriſt in his members, that have contended for the Goſpel faith of Jeſus the Chriſt: <hi>Matth.</hi> 16:16: <hi>Luke</hi> 24.46.47. 1 <hi>John</hi> 5, 1. once given unto the Saints: And for which cauſe, the wrath of God is coming on all thoſe falſe ſtates (whom the holy Spi<g ref="char:EOLhyphen"/>rit of God calleth Lyers and Antichriſtians, that deny the Father; and the Son; as I have ſhewed you before in a few words 1 <hi>John</hi> 2:22. Be<g ref="char:EOLhyphen"/>cauſe in them is found the blood of Prophets and Saints, and all that were ſlaine upon the earth: <hi>Revel:</hi> 18:24: as once was of old in the Jewiſh ſtate, which the Apoſtle <hi>Peter</hi> calleth a froward generation (which that Apoſtle exhorted the trembling Jews that were pricked in their hearts crying out; What ſhall we do? to ſave themſelves from: and the Apoſtle <hi>Paul</hi> rendereth this reaſon: Becauſe they had both killed the Lord Jeſus, and their own Prophets, and they have perſecu<g ref="char:EOLhyphen"/>ted as (believers baptized) and they pleaſe not God; and are contra<g ref="char:EOLhyphen"/>ry to all men: For bidding us ſpeak unto the Gentiles that they might be ſaved: to fill up their ſins alwayes [For the wrath of God is] come
+<pb n="4" facs="tcp:113450:3"/> on them unto the uttermoſt. 1 <hi>Theſ.</hi> 2:15.16.</p>
+            <p>
+               <hi>Qu. Matth.</hi> 23.33, 34, 35, 36. So that the trembling cry out, How ſhall we eſcape the wrath of God that is coming on us for con<g ref="char:EOLhyphen"/>ſenting to ſhed the blood of the Saints, and prophets that contend for the Goſpel faith; namely, that Jeſus, who was crucified, dead, and ri<g ref="char:EOLhyphen"/>ſen, is the Chriſt; <hi>Act.</hi> 2:36:</p>
+            <p>
+               <hi>Anſw.</hi> Muſt not the Goſpel miniſter (to whom is committed the word of reconciliation; 2 <hi>Cor.</hi> 5.18.) preach unto them the everlaſt<g ref="char:EOLhyphen"/>ing Goſpel; As <hi>Peter,</hi> did to the inquiring Jevvs: <hi>Act.</hi> 2.38: Repent and be baptized every one of you in the name of Jeſus Chriſt for re<g ref="char:EOLhyphen"/>miſſion of ſins: And ye ſhall receive the gift of the holy ſpirit; For the promiſe is to you; and to your Children; <hi>viz.</hi> to the Jews firſt; <hi>Act.</hi> 3.36: unto you firſt, God hath raiſed up his Son Jeſus Chriſt ſent him to bleſſe you in turning away every one of you from your iniqui<g ref="char:EOLhyphen"/>ries; Secondly, ſent him to bleſſe you firſt; in fulfilling the Propheſy of <hi>Joel: Joel</hi> 2:28: In powering out his ſpirit upon your Sones, and Daughters: And to all <hi>viz.</hi> fleſh afar off; the remoteſt Gentiles, and even ſo many as the Lord our God ſhall call: 39. v: And with many other words he muſt teſtifie, and exhort, ſaying; Save your ſelves from this untoward generation: 40: Seeing the Goſpel of Jeſus the Chriſt is eternall: 1 <hi>Pet:</hi> 1.25. And whatſoever things were written aforetime, were written for our learning; that we through patience, and comforts of the Scriptures might have hope: <hi>Rom:</hi> 15.4.</p>
+            <p>Now ſo many as ſhall gladly receive (that is believe <hi>John</hi> 1.12:) this Goſpel of Salvation and ariſe and be baptized; ſhall be ſaved from the wrath that is coming on them;</p>
+            <p>As <hi>Noah</hi> and his family were by faith ſaved in the arke from pe<g ref="char:EOLhyphen"/>riſhing by water. <hi>Heb:</hi> 11:7: ſeeing the Apoſtle ſaith: the like figure whereunto even baptiſme, doth alſo ſave us, (<hi>viz.</hi> that believe) by the reſurrection of Jeſus Chriſt: So. the Lord added daly to his Church ſuch as ſhould be ſaved: <hi>Act.</hi> 2:47.</p>
+            <p n="8">8. Becauſe none of what ranke or degrees ſoever; can prove them<g ref="char:EOLhyphen"/>ſelves Saints by calling, and that intruth, they have a viſible right to be admitted into the ſpirituall houſe, even to the fellowſhip of Saints, in breaking of bread and prayer.</p>
+            <p n="1">1. Namely, untill they have manifeſted their repentance from dead workes; by ſaving or ſeperating of themſelves from thoſe falſe ſtates (whom the ſpirit of God calleth lyers, and Antichriſtians that deny the Father and the Son: 1 <hi>John</hi> 2:23:) that perſecute the members of Chriſt for contending for the Goſpel faith of Jeſus the Chriſt: <hi>Math.</hi>
+               <pb n="5" facs="tcp:113450:3"/> 16:16: <hi>Luke</hi> 24:46: 47. 1 <hi>John</hi> 51 1. Once given unto the Saints: <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Saul, Act.</hi> 9. and Jaylour once did: <hi>Act:</hi> 16:24.</p>
+            <p n="2">2. Vntill they manifect (to them that demand in) a reaſon of the hopes that is in them by a beliefe of the heart; and a confeſſion of their lips, that the Lord Jeſus, who was crucified dead; and riſen, is exalted to be the Chriſt as the <hi>Enuch</hi> did to <hi>Philip Acts</hi> 8.37.</p>
+            <p n="3">3. Vntill they yeeld obedience unto the Goſpel Commandement: Be baptized every one of you in the name of Jeſus Chriſt for the re<g ref="char:EOLhyphen"/>miſſion of ſins. <hi>Act:</hi> 2:38. becauſe it is written; He that ſaith I know him (that is Jeſus the Chriſt) and keepeth not his Commandements is a lyer; and there is no truth in him, 1 <hi>John</hi> 2.4. Seeing theſe three principles of the doctrine of Chriſt; Are the way for all that truly believe in Jeſus the Chriſt, to take up, and walke in (as the members of the Churches of <hi>Judea;</hi> which were in Chriſt once did, <hi>Heb.</hi> 6.1. 2. before they were added unto the Church, to continue in the Apoſtles doctrine, and fellowſhip, in breaking of bread, and prayer, <hi>Act.</hi> 2, 41, 42.</p>
+            <p n="9">9. Becauſe; there is no promiſe of ſalvation for any (whether they be males or females) but for them onely, that believe in Jeſus the Chriſt, <hi>Act.</hi> 4.10, 11, 12. For there is ſalvation in none other.</p>
+            <p n="10">10. Becauſe there is no promiſe of pardon of ſin for any perſons: ſave onely for them that believe in the blood of Jeſus the Chriſt, 1 <hi>John</hi> 1.7. the blood of Jeſus Chriſt his Son which cleanſeth from all ſin.</p>
+            <p n="11">11. Becauſe no manner of perſons whatſoever have aright to all; or any of the promiſes, untill they believe in Jeſus the Chriſt, 2 <hi>Cor.</hi> 3.20. For all the promiſes in him (that is in Jeſus the Chriſt are yee: And in him Amen: Knowing that till we are made one with Jeſus the Chriſt by faith, <hi>Gal.</hi> 3.28.29. ye are all one in Chriſt, if Chriſt then <hi>Abraham</hi> ſeed, then heires according to promiſe, v. 29. We are but ſtrangers from the Covenant of promiſe; and without hope in the world <hi>Epheſ.</hi> 1.12. verſe 1.</p>
+            <p n="12">12. Becauſe no Son of the firſt <hi>Adam,</hi> hath a ſpirituall right to any of the creatures to be ſanctified for his life: But as their life, and ſpirituall intreſt is reſtored to them through faith in Jeſus the Chriſt, 1 <hi>Cor.</hi> 3.21. All things are yours 22. Whether <hi>Paul</hi> or <hi>Apollos:</hi> or <hi>Caephas,</hi> or the world, or life, or death; or things preſent; or things to come; all are yours; And ye are Chriſt; And Chriſt is Gods; 1 <hi>Cor.</hi> 3.23.</p>
+            <p n="13">13. Becauſe there is no hope of the reſurrection of the dead; nor of an aſſurance of the eternal inheritance in glory; but through
+<pb n="6" facs="tcp:113450:4"/> Faith in Ieſus the Chriſt; 1 <hi>Cor.</hi> 15.22. <hi>Ioh.</hi> 11.<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>5. Jeſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſaid, I am the Reſurrection and the Life; he that beleiveth in the though he were dead, yet ſhall he live; And he that liveth and beleiveth in me ſhal not dye for ever, 1 <hi>Pet.</hi> 1.3, 4, 5 <hi>verſ.</hi>
+            </p>
+            <p n="14">14. I affirm, that no man (by what name, or title ſoever he be cal<g ref="char:EOLhyphen"/>led) can prove himſelf a faithfull Teacher ſent of God; unleſſe he be<g ref="char:EOLhyphen"/>leive with all his heart, and confeſſe with his lips, that the Lord Ie<g ref="char:EOLhyphen"/>ſus is the Chriſt, <hi>vid.</hi> the eternall King and Prophet, and Prieſt of his Church, in things appertaining unto his conſcience.</p>
+            <p>Firſt, I do conceive; that in this (all the learned and loyall Co<g ref="char:EOLhyphen"/>venantors in the Nation do agree with me) that Ieſus the Chriſt, is annointed of God, to be our eternall High-Prieſt, that ever liveth to reconcile us unto God, <hi>Heb.</hi> 7.25. But the difference is whether the ſame Ieſus the Chriſt is annointed, and appointed of God to be our Prophet, <hi>Mat.</hi> 17.5. This is my beloved Son hear him; And that in all things whatſoever he ſhall ſay unto us, <hi>Act.</hi> 3.22. So <hi>Moſes,</hi> and the Apoſtle <hi>Peter</hi> teſtifieth, <hi>Deut.</hi> 18.18. the danger followeth, if we hear him not, our ſouls muſt periſh. <hi>Act.</hi> 3.23.</p>
+            <p>Now Ieſus the Chriſt ſaith in the Scriptures of the New Teſta<g ref="char:EOLhyphen"/>ment, that profeſſing Faith and Repentance ſhall be baptized, <hi>Heb.</hi> 6.12. <hi>Act.</hi> 8.36, 37, 38. <hi>Act.</hi> 2.41. They which gladly received his Word were baptized.</p>
+            <p>But where doth Chriſt ſay; that the Infant of a Beleiver, or the Seed of Beleivers ſhall be baptized.</p>
+            <p n="1">1. If any Teacher affirm they may, and have not a word from Ie<g ref="char:EOLhyphen"/>ſus the Chriſt to warrant what he ſaith; he is a falſe Teacher, and by the Law h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is accurſed, <hi>Deut.</hi> 18 20. But the Prophet which ſhall preſume to ſpeak a word in my Name, which I have not comman<g ref="char:EOLhyphen"/>ded him to ſpeak; even that Prophet ſhall dy.</p>
+            <p n="2">2. He is a lying Teacher; for he addeth to the word Seed, or In<g ref="char:EOLhyphen"/>fant of a Beleiver; <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at God hath not added, <hi>Prov.</hi> 30.6. Add not thou to his word leſt he reprove thee, and thou be found a lyar ye ſhall not add unto the Word which I have commanded you, <hi>Deut.</hi> 4.2. If any ſhall add to theſe words, God will add unto him all the Plagues written in this Book, <hi>Rev.</hi> 22.18.</p>
+            <p n="3">3. He is a lying Teacher that cometh in his own name, <hi>Ioh.</hi> 5.43. and God hath not ſent him, <hi>Ier.</hi> 23.25. they cauſe my people to forget my Name by their dreams; as their Father hath forgotten my Name for <hi>Baal,</hi> 2.7. the Prophet that hath a dream, let him tell a dream; And he that hath my Word, let him ſpeak my Word faith<g ref="char:EOLhyphen"/>fully;
+<pb n="7" facs="tcp:113450:4"/> what is Chaff to the Wheat, ſaith the Lord, <hi>verſ.</hi> 28.</p>
+            <p n="4">4. <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaith; th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ugh it were himſelf, or an Angel from Heaven, that ſhould preach any other Goſpel unto you, then that we have preached (that Jeſus, who was crucified, dead, and riſen; through whom we that beleive in his Name ſhall have remiſſion of ſinnes, whom God hath exalted to be the Chriſt) let him be accurſed, <hi>Gal.</hi> 18, 9.</p>
+            <p>Thirdly, the ſame Jeſus, the Chriſt is annointed and appointed of God to be our eternall King, and that his Commiſſion ſhall be eter<g ref="char:EOLhyphen"/>nall, <hi>Matth.</hi> 28.18, 19, 20. <hi>Mar.</hi> 16.15, 16. <hi>Luk.</hi> 24.46, 47, 48. Now the Commiſſion of King Jeſus ſaith; ſuch as beleive the Goſpell Faith of Jeſus the Chriſt ſhall be baptized: but Infidels, and un<g ref="char:EOLhyphen"/>beleivers are not to be baptized.</p>
+            <p>Now ſaith Chriſt, theſe mine Enemies that would not I ſhould reign (King and Prophet in all my outward adminiſtrations, accor<g ref="char:EOLhyphen"/>ding to my Royal Commiſſion given me of my Father when he raiſed me from the dead, <hi>Mat.</hi> 28.18, 19, 20. in admitting of mem<g ref="char:EOLhyphen"/>bers into my ſpirituall Kingdom) bring them hither, and ſlay them before me, <hi>Luke</hi> 19.27.</p>
+            <p>Hence it is, that Chriſts ſheep refuſe to hear the voyce of thoſe falſe Teachers, that refuſe to obey the voice of Jeſus the Chriſt, their King and Prophet, <hi>Ioh.</hi> 10.4, 5.</p>
+            <p n="1">1. Becauſe they in denying the Sonnes authority to the eternall King and Prophet of the Church, they deny the Father that ſancti<g ref="char:EOLhyphen"/>fied his Son, and ſent him into the world, <hi>Iohn</hi> 10 36. and raiſed him from the dead, and exalted him to be Lord Chriſt, <hi>Act.</hi> 2.36.</p>
+            <p n="2">2. He that honoureth not the Son as King and Prophet, honou<g ref="char:EOLhyphen"/>reth not the Father that ſent him, <hi>Ioſh.</hi> 5.23.</p>
+            <p n="3">3. They refuſe to hear the voyce of thoſe Teachers, that preach for Doctrine the commandement of men; becauſe in ſo doing they make the Commiſſion of Jeſus the Chriſt (their King and Prophet, <hi>Matth.</hi> 28.18, 19, 20.) of none effect that they may keep their own traditions, <hi>Matth.</hi> 15.3, 6.</p>
+            <p n="4">4. They are commanded to mark and avoid all <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch as cauſe di<g ref="char:EOLhyphen"/>viſion contrary to the Doctrine of Chriſt, that they have learned of him, <hi>Rom.</hi> 16.16, 17, 18.</p>
+            <p n="5">5. Yea to withdraw from them that teach otherwiſe; and con<g ref="char:EOLhyphen"/>ſent not to the wholeſome words, even the words of the Lord Jeſus Chriſt, and the Doctrine which is according to godlineſſe, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 6, 3, 4, 5.</p>
+            <p n="6">
+               <pb n="8" facs="tcp:113450:5"/>6. Yea from all ſuch, as tranſgreſſe, and abide not in the do<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rine of Chriſt; they are commanded not to bid God-ſpeed: For he that biddeth them God-ſpeed is partakers of their evill deeds, 2 <hi>Iob.</hi> 9.10, 11.</p>
+            <p>If theſe things be ſo (as the holy Scripture heareth record that they are,) Reſolve me then, I pray; And beſeech, any that are tru<g ref="char:EOLhyphen"/>ly godly, and learned, judicious, loyall Covenanters, this following Quaere.</p>
+            <p>Qu. <hi>Whether it be agreeable to the Word of God contained in the in<g ref="char:EOLhyphen"/>ſpired Scriptures to ſilence, or inhibite any Miniſters of Ieſus the Chriſt for preaching the Goſpel Faith freely; Namely, that Ieſus Chriſt, who was crucified, dead, and riſen is the Chriſt,</hi> Act. 2.36. <hi>Through whoſe Name all that beleive ſhall receive remiſſion of ſins,</hi> Act. 10.43. <hi>and maintaining publiquely with</hi> Apollo <hi>againſt all oppoſers; that the Lord Ieſus is the Chriſt,</hi> Act. 18.28. <hi>As the Iews of old caſt the blind man out of their Synagogue, for confeſſing, that Ieſus was the Chriſt, Ioh.</hi> 9.22, 34.</p>
+            <closer>
+               <signed>Yours who refuſeth not to bear any Orthodox Miniſtry, that doth beleive with all their hearts, and confeſſe with their lips, that the Lord Ieſus is the Chriſt, 1 <hi>Ioh.</hi> 5.1. <hi>FRANCIS CORNVVEL.</hi>
+               </signed>
+               <dateline>
+                  <hi>Orpington</hi> in <hi>Kent,</hi> 
+                  <date>Feb. 14. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>A Poſtſcript.</head>
+            <p>NOw I know that the Engliſh Miniſtery, <hi>Tit.</hi> 1.16. profeſſe that the Lord Ieſus is the Chriſt.</p>
+            <p>I do eaneſtly deſire, that they would reſolve me then, theſe two Quaeres.</p>
+            <p>Qu. 1. <hi>What is the everlaſting Goſpel; that Ieſus the Christ com<g ref="char:EOLhyphen"/>manded his Diſciples to preach to all Nations beginning at Hieruſalem.</hi>
+            </p>
+            <p>Qu. 2. <hi>Whether they preach now the everlaſting Goſpel in the ſame manner to them, that inquire after it: As <hi>Peter</hi> did to the troubling Iewes, <hi>Act.</hi> 2.3<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <closer>
+               <signed>Yours that waiteth for your anſwer, reſolving to be one with you; ſo far, as you are one with <hi>JESUS</hi> the <hi>CHRIST. FRANCIS CORNVVEL.</hi>
+               </signed>
+               <dateline>
+                  <date>Februar. 17. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
